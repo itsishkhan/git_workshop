@@ -2685,7 +2685,7 @@ data
 
 <td style="text-align:right;">
 
-408985684
+408985685
 
 </td>
 
@@ -2697,7 +2697,7 @@ data
 
 <td style="text-align:left;">
 
-▇▃▂▂▁
+\<U+2587\>\<U+2583\>\<U+2582\>\<U+2582\>\<U+2581\>
 
 </td>
 
